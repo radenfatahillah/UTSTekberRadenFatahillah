@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">UTS Tekber Raden Fatahillah</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="isinama">RADEN FATAHILLAH</string>
+    <string name="isiemail">radenfatahillah@gmail.com</string>
+    <string name="isinim">H1101171011</string>
+    <string name="profil">Lihat Profil</string>
+    <string name="introtext">KATALOG BUKU</string>
+
+    <string-array name="judul_buku_buku">
+    <item name="judul_buku1">Arah Langkah</item>
+    <item name="judul_buku2">Koala Kumal</item>
+    <item name="judul_buku3">Radikus Makankakus</item>
+    <item name="judul_buku4">Ubur-Ubur Lembur</item>
+    <item name="judul_buku5">Bulan Terbelah di Langit Amerika</item>
+        <item name="judul_buku6">Laskar Pelangi</item></string-array>
+
+    <string-array name="penerbit_buku_buku">
+        <item name="penerbit_buku1">Media Kita</item>
+        <item name="penerbit_buku2">Gagas Media</item>
+        <item name="penerbit_buku3">Gagas Media</item>
+        <item name="penerbit_buku4">Gagas Media</item>
+        <item name="penerbit_buku5">Gramedia Pustaka Utama</item>
+        <item name="penerbit_buku6">Bentang Pustaka</item></string-array>
+
+    <string-array name="penulis_buku_buku">
+        <item name="penulis_buku1">Fiersa Besari</item>
+        <item name="penulis_buku2">Raditya Dika</item>
+        <item name="penulis_buku3">Raditya Dika</item>
+        <item name="penulis_buku4">Raditya Dika</item>
+        <item name="penulis_buku5">Hanum Salsabiela Rais dan Rangga Almahendra</item>
+        <item name="penulis_buku6">Andrea Hirata</item></string-array>
+
+    <string-array name="tahun_buku_buku">
+    <item name="tahun_buku1">2018</item>
+    <item name="tahun_buku2">2015</item>
+    <item name="tahun_buku3">2007</item>
+    <item name="tahun_buku4">2018</item>
+    <item name="tahun_buku5">2016</item>
+        <item name="tahun_buku6">2005</item></string-array>
+
+    <string-array name="sinopsis_buku_buku">
+    <item name="sinopsis_buku1">Sejauh apa pun jalan yang kita tempuh, tujuan akhir selalu rumah” kata Bung Fiersa Besari di dalam buku ke-empat nya. Di buku ini ia bercerita tentang perjalanannya keliling indonesia, dengan modal pas pas an namun dengan keberanian yang tangguh.\n\n
+Ia pergi ke Manado, Raja Ampat , Bunaken, Tana Toraja, Medan dan masih banyak lagi. Pergi mendaki gunung, untuk menancapkan tiang bendera di puncak. Bertemu teman twitternya yang membantu bung dan 2 sahabatnya untuk menginap, mengexplore budaya dan keaneragaman suatu wilayah. Melihat lihat keindahan, menikmati surga yang ada di indonesia yang setiap daerahnya memiliki keunikan tersendiri. Tidak hanya mendaki, namun ke pantai dan menyelam pun juga bung fiersa lakukan.</item>
+    <item name="sinopsis_buku2">Novel Koala kumal ini bercerita tentang patah hati, dari seorang Dika yang masih SD kemudian ketika SMA sampai ia mahasiswa atau bahkan yang masih hangat-hangatnya setahun yang lalu.\n\n
+Semuanya dituangkan dan dikupas habis disini. Dari bab 1 (satu) yang menceritakan tentang persahabatan antara kak Dika, Bahri dan Dodo yang membuatnya beralih profesi dari video game ke petasan jangwe kemudian berakhir pada layangan “Layangan hijau yang putih itu melayang lemah tanpa arah, seperti abege yang gagal move on” .</item>
+    <item name="sinopsis_buku3">Dalam buku ini sedikit menceritakan mengenai kehidupan seseorang dengan penuh gaya dan perubahan, jaman sekarang menggunakan produk canggih, seseorang sudah bisa mempercantik dirinya, ingin gaul? Seperti itulah pernyataan dan pertanyaan yang pas untuk isi buku raditya dika ini.\n\n
+Dalam buku ini juga diceritakan mengenai kehidupan jaman sekolah dan kuliah seorang raditya dika. Kesamaan dari buku ini dengan buku-buku sebelumnya yaitu raditya dika juga menceritakan dan menuliskan pengalaman, kehidupan, komersial kehidupannya.</item>
+    <item name="sinopsis_buku4">Alur atau plot adalah jalannya cerita yang memiliki hubungan sebab akibat. Pada umumnya buku dengan tema perjalanan hidup akan memiliki alur maju, karena akan sangat sedikit akan ditemukannya flash back di dalam cerita.\n\n
+Sama seperti novel ini Raditya Dika kali ini menggunakan alur maju. Di novel ini kisah yang disajikan akan selalu dimulai dari awal lalu pada akhirnya akan selesai dengan caranya masing-masing, di dalam novel ini juga sangat sedikit kita disajikan suatu masalah lalu dihadapkan dengan bagaimana hal itu terjadi.</item>
+    <item name="sinopsis_buku5">Dunia terguncang dengan kejadian tak terlupakan pada selasa, 11 September 2001. Kejadian ini disebut Black Tuesday atau hari Selasa yang kelam, karena ketika itu dua pesawat dibajak oleh dua orang yang disebut beragama Islam untuk menghancurkan gedung WTC (World Trade Centre) di New York, Amerika Serikat.\n\n
+Sejak kejadian tersebut banyak orang mengutuk Islam, dan memberikan stempel teroris kepada Muslim. Pembaca novel 99 Cahaya di Langit Eropa tentu tahu, ada seorang tokoh yang bernama Fatma Pasha keturunan Turki yang sulit mencari pekerjaan di Wina hanya karena di seorang Muslimah dan menjalankan kewajibannya menutup aurat (berhijab).</item>
+    <item name="sinopsis_buku6">Dimulai dari kisah miris dunia pendidikan di indonesia dimana sebuah terdapat sekolah yang kekurangan murid hendak ditutup.\n\n
+Tepatnya di SD Muhammadiyah Belitung. Pada saat itu adalah saat yang menegangkan bagi kesembilan murid yang bersekolah di SD Muhammadiyah ini. Kesembilan Murid Tersebut adalah Ikal, Sahara, Lintang, A kiong, Kucai, Syahdan, Borek, A ling dan terepani.\n\n</item></string-array>
+    <string name="judul">Judul</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="penulis">Penulis</string>
+    <string name="tahun">Tahun</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="contentdesc">TODO</string>
+</resources>
